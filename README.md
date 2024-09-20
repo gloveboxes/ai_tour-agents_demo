@@ -1,5 +1,11 @@
 # Agent Demo in the Assistants API Session
 
+## Video introduction
+
+Click the image below to watch a video introduction to the Agent App in the Assistants API session.
+
+[![Video introduction](media/thumbnail.png)](https://youtu.be/dGT7cThhnSY)
+
 ## Create Azure OpenAI Resources
 
 1. Create an Azure OpenAI GPT-4o model and a text-embedding-3-small model in the Azure portal.
